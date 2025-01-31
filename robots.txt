@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://cap-playboy.github.io/2-kelinci/sitemap.xml
